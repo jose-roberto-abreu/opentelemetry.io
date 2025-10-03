@@ -152,7 +152,7 @@ Providers.
 ## Trace Exporters
 
 Trace Exporters send traces to a consumer. This consumer can be standard output
-for debugging and development-time, the OpenTelemetry Collector, or any open
+for debugging during development, the OpenTelemetry Collector, or any open
 source or vendor backend of your choice.
 
 ## Context Propagation
